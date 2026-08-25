@@ -1,0 +1,134 @@
+[
+  {
+    "id": "TXN-2026-1001",
+    "customer": "Aarav Mehta",
+    "amount": 12500,
+    "channel": "UPI",
+    "deviceTrust": "trusted",
+    "locationMatch": "match",
+    "velocityLastHour": 1,
+    "priorFlags": 0,
+    "timeBand": "day"
+  },
+  {
+    "id": "TXN-2026-1002",
+    "customer": "Priya Verma",
+    "amount": 98000,
+    "channel": "Internet Banking",
+    "deviceTrust": "new",
+    "locationMatch": "mismatch",
+    "velocityLastHour": 6,
+    "priorFlags": 2,
+    "timeBand": "night"
+  },
+  {
+    "id": "TXN-2026-1003",
+    "customer": "Rohan Kapoor",
+    "amount": 45500,
+    "channel": "Mobile Banking",
+    "deviceTrust": "trusted",
+    "locationMatch": "mismatch",
+    "velocityLastHour": 3,
+    "priorFlags": 1,
+    "timeBand": "day"
+  },
+  {
+    "id": "TXN-2026-1004",
+    "customer": "Simran Kaur",
+    "amount": 8700,
+    "channel": "Credit Card",
+    "deviceTrust": "trusted",
+    "locationMatch": "match",
+    "velocityLastHour": 1,
+    "priorFlags": 0,
+    "timeBand": "day"
+  },
+  {
+    "id": "TXN-2026-1005",
+    "customer": "Vikram Rao",
+    "amount": 76400,
+    "channel": "UPI",
+    "deviceTrust": "new",
+    "locationMatch": "mismatch",
+    "velocityLastHour": 5,
+    "priorFlags": 1,
+    "timeBand": "night"
+  },
+  {
+    "id": "TXN-2026-1006",
+    "customer": "Neha Iyer",
+    "amount": 15000,
+    "channel": "Mobile Banking",
+    "deviceTrust": "trusted",
+    "locationMatch": "match",
+    "velocityLastHour": 2,
+    "priorFlags": 0,
+    "timeBand": "day"
+  },
+  {
+    "id": "TXN-2026-1007",
+    "customer": "Aditya Singh",
+    "amount": 112000,
+    "channel": "Credit Card",
+    "deviceTrust": "new",
+    "locationMatch": "mismatch",
+    "velocityLastHour": 7,
+    "priorFlags": 3,
+    "timeBand": "night"
+  },
+  {
+    "id": "TXN-2026-1008",
+    "customer": "Kavya Nair",
+    "amount": 22800,
+    "channel": "UPI",
+    "deviceTrust": "trusted",
+    "locationMatch": "match",
+    "velocityLastHour": 2,
+    "priorFlags": 0,
+    "timeBand": "day"
+  },
+  {
+    "id": "TXN-2026-1009",
+    "customer": "Manish Gupta",
+    "amount": 68900,
+    "channel": "Internet Banking",
+    "deviceTrust": "new",
+    "locationMatch": "match",
+    "velocityLastHour": 4,
+    "priorFlags": 1,
+    "timeBand": "night"
+  },
+  {
+    "id": "TXN-2026-1010",
+    "customer": "Isha Patel",
+    "amount": 9700,
+    "channel": "Credit Card",
+    "deviceTrust": "trusted",
+    "locationMatch": "match",
+    "velocityLastHour": 1,
+    "priorFlags": 0,
+    "timeBand": "day"
+  },
+  {
+    "id": "TXN-2026-1011",
+    "customer": "Rahul Bansal",
+    "amount": 53400,
+    "channel": "Mobile Banking",
+    "deviceTrust": "new",
+    "locationMatch": "mismatch",
+    "velocityLastHour": 5,
+    "priorFlags": 2,
+    "timeBand": "night"
+  },
+  {
+    "id": "TXN-2026-1012",
+    "customer": "Sneha Desai",
+    "amount": 14200,
+    "channel": "UPI",
+    "deviceTrust": "trusted",
+    "locationMatch": "match",
+    "velocityLastHour": 1,
+    "priorFlags": 0,
+    "timeBand": "day"
+  }
+]
