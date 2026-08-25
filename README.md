@@ -1,4 +1,4 @@
-# FraudShield ML Demo
+# MCA Project - FraudShield ML
 
 Next.js and TypeScript prototype for the approved synopsis:
 
