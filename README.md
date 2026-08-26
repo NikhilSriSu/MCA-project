@@ -93,7 +93,7 @@ Use the following sample credentials on the login screen:
 
 ```text
 User ID: admin
-Password: demo123
+Password: admin123
 ```
 
 After entering the credentials, select one of the available roles:

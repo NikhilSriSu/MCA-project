@@ -21,10 +21,6 @@ export default function LoginScreen() {
           <div className="brand-block">
             <p className="eyebrow">Approved Synopsis Prototype</p>
             <h1>Machine Learning-Based Financial Fraud Detection System</h1>
-            <p className="hero-copy">
-              This prototype now uses real pages like `/login`, `/admin`, `/analyst`, and
-              `/officer`, with each role opening a dedicated workspace.
-            </p>
           </div>
 
           <div className="login-card">
@@ -41,7 +37,7 @@ export default function LoginScreen() {
 
               <label>
                 <span>Password</span>
-                <input defaultValue="demo123" name="password" required type="password" />
+                <input defaultValue="admin123" name="password" required type="password" />
               </label>
 
               <label>
@@ -65,8 +61,8 @@ export default function LoginScreen() {
             </form>
 
             <div className="demo-credentials">
-              <span>Demo Access:</span>
-              <strong>admin / demo123</strong>
+              <span>Access:</span>
+              <strong>admin / admin123</strong>
             </div>
           </div>
         </div>
